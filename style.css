@@ -1,0 +1,13 @@
+h1{
+	text-align: center;
+}
+
+#board{
+	border:3px;
+	border-style: solid;
+	border-color: black;
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+	display: block;
+}
