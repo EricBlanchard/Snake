@@ -2,6 +2,17 @@ h1{
 	text-align: center;
 }
 
+#main{
+	display: block;
+}
+
+#instructions{
+	display: block;
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+}
+
 #board{
 	border:3px;
 	border-style: solid;
