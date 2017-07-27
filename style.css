@@ -6,19 +6,36 @@ h1{
 	display: block;
 }
 
-#instructions{
+#left{
 	display: block;
-	width: 300px;
-	margin: 0 auto;
 	text-align: center;
+	float: left;
+	width: 50%;
+}
+
+#right{
+	display: block;
+	float: left;
+	margin-right: auto;
+	width: 50%;
+}
+
+#instructionBox{
+	margin: auto;
+	width: 50%;
 }
 
 #board{
 	border:3px;
 	border-style: solid;
 	border-color: black;
-	width: 400px;
-	height: 400px;
+	width: 500px;
+	height: 500px;
 	margin: 0 auto;
 	display: block;
+	float: left;
+}
+
+#message{
+
 }
